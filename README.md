@@ -29,7 +29,8 @@ Zembil has the following features:
 
 [Add screenshots of your project here with captions.]
 
-![Screenshot](screenshots/screenshot1.png)
+![screenshot](screenshots/screenshot1.png)
+
 _Home screen_
 
 ## Installation
