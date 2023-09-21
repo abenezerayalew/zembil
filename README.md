@@ -29,7 +29,7 @@ Zembil has the following features:
 
 [Add screenshots of your project here with captions.]
 
-![screenshot](screenshots/screenshot1.png)
+(screenshots/screenshot1.png)
 
 _Home screen_
 
